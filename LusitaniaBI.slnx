@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Development" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LusitaniaETL/LusitaniaETL.dtproj" Type="c9674dcb-5085-4a16-b785-4c70dd1589bd">
+    <Platform Project="?" />
+  </Project>
+  <Project Path="LusitaniaModel/LusitaniaModel.smproj" Type="6870e480-7721-4708-bfb8-9ae898aa21b3">
+    <Deploy />
+  </Project>
+</Solution>

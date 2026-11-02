@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+[Bb]in/
+[Oo]bj/
+
+# SSIS build output and local settings
+*.ispac
+*.database
+
+# SSAS workspace / local settings and build output
+*.settings
+*.abf
+LusitaniaModel/bin/
+LusitaniaModel/obj/
+
+# Power BI temporary files
+*.pbix.tmp
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini
